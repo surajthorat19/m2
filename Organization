@@ -1,1 +1,5 @@
 WebdriverUtil driver=new ChromeDriver();
+WebdriverUtil driver=new ChromeDriver();
+WebdriverUtil driver=new ChromeDriver();
+WebdriverUtil driver=new ChromeDriver();
+WebdriverUtil driver=new ChromeDriver();
